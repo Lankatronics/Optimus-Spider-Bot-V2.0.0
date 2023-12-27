@@ -6,10 +6,10 @@ The Optimus Spider Bot is a cutting-edge robotic platform designed for various a
 
 ## Features
 
-- Four-Legged Design:Quadruped configuration for stability and versatile movement.
-- High-Quality Construction:Built with durable materials to withstand robust usage.
-- Programmable:Easily programmable using popular platforms like Arduino for customized behavior.
-- Wireless Control:Options for wireless control and communication.
+- Four-Legged Design: Quadruped configuration for stability and versatile movement.
+- High-Quality Construction: Built with durable materials to withstand robust usage.
+- Programmable: Easily programmable using popular platforms like Arduino for customized behavior.
+- Wireless Control: Options for wireless control and communication.
 
 
 ## Support
