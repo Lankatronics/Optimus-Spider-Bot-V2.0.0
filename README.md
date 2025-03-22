@@ -14,7 +14,7 @@ The Optimus Spider Bot is a cutting-edge robotic platform designed for various a
 
 ## Support
 
-For technical support, contact our team at support@lankatronics.com
+For technical support, contact our team at support@tesla.lk
 
 To control this using android device, you will need the following app:
 https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller
